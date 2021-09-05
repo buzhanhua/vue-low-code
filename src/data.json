@@ -1,0 +1,37 @@
+{
+    "container": {
+        "width": 550,
+        "height": 500
+    },
+    "blocks": [{
+            "top": 100,
+            "left": 100,
+            "zIndex": 1,
+            "key": "text",
+            "props": {
+                "text": "布占华",
+                "color": "#ff0000",
+                "size": "14px"
+            }
+        },
+        {
+            "top": 200,
+            "left": 200,
+            "zIndex": 1,
+            "key": "button",
+            "props": {
+                "text": "布占华",
+                "type": "primary",
+                "size": "mini"
+            }
+        },
+        {
+            "top": 300,
+            "left": 300,
+            "zIndex": 1,
+            "key": "input",
+            "props": {},
+            "model": {}
+        }
+    ]
+}
